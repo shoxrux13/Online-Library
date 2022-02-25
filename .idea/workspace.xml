@@ -9,65 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82a47fad-7302-4f54-950f-cead537da8f2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Online_kutubxona_Shoxrux_Ergashev_b6_Web_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Isoqov_Islomjon_Imtihon_m4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Isoqov_Islomjon_Imtihon_m4_Web_exploded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Isoqov_Islomjon_Imtihon_m4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Online_kutubxona_Shoxrux_Ergashev_b6.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Isoqov_Islomjon_Imtihon_m4_Web_exploded/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Isoqov_Islomjon_Imtihon_m4_Web_exploded/WEB-INF/classes/uz/pdp/config/AppInit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Isoqov_Islomjon_Imtihon_m4_Web_exploded/WEB-INF/classes/uz/pdp/config/WebMvcConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Isoqov_Islomjon_Imtihon_m4_Web_exploded/WEB-INF/classes/uz/pdp/controller/AuthController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Isoqov_Islomjon_Imtihon_m4_Web_exploded/WEB-INF/classes/uz/pdp/controller/BookController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Isoqov_Islomjon_Imtihon_m4_Web_exploded/WEB-INF/classes/uz/pdp/model/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Isoqov_Islomjon_Imtihon_m4_Web_exploded/WEB-INF/classes/uz/pdp/model/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Isoqov_Islomjon_Imtihon_m4_Web_exploded/WEB-INF/classes/uz/pdp/repository/UserRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Isoqov_Islomjon_Imtihon_m4_Web_exploded/WEB-INF/classes/uz/pdp/services/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Isoqov_Islomjon_Imtihon_m4_Web_exploded/WEB-INF/lib/checker-qual-3.5.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Isoqov_Islomjon_Imtihon_m4_Web_exploded/WEB-INF/lib/commons-fileupload-1.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Isoqov_Islomjon_Imtihon_m4_Web_exploded/WEB-INF/lib/commons-io-2.11.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Isoqov_Islomjon_Imtihon_m4_Web_exploded/WEB-INF/lib/gson-2.8.9.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Isoqov_Islomjon_Imtihon_m4_Web_exploded/WEB-INF/lib/jstl-1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Isoqov_Islomjon_Imtihon_m4_Web_exploded/WEB-INF/lib/lombok-1.18.22.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Isoqov_Islomjon_Imtihon_m4_Web_exploded/WEB-INF/lib/postgresql-42.3.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Isoqov_Islomjon_Imtihon_m4_Web_exploded/WEB-INF/lib/servlet-api-2.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Isoqov_Islomjon_Imtihon_m4_Web_exploded/WEB-INF/lib/spring-aop-5.3.15.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Isoqov_Islomjon_Imtihon_m4_Web_exploded/WEB-INF/lib/spring-beans-5.3.15.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Isoqov_Islomjon_Imtihon_m4_Web_exploded/WEB-INF/lib/spring-context-5.3.15.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Isoqov_Islomjon_Imtihon_m4_Web_exploded/WEB-INF/lib/spring-core-5.3.15.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Isoqov_Islomjon_Imtihon_m4_Web_exploded/WEB-INF/lib/spring-expression-5.3.15.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Isoqov_Islomjon_Imtihon_m4_Web_exploded/WEB-INF/lib/spring-jcl-5.3.15.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Isoqov_Islomjon_Imtihon_m4_Web_exploded/WEB-INF/lib/spring-jdbc-5.3.15.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Isoqov_Islomjon_Imtihon_m4_Web_exploded/WEB-INF/lib/spring-tx-5.3.15.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Isoqov_Islomjon_Imtihon_m4_Web_exploded/WEB-INF/lib/spring-web-5.3.15.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Isoqov_Islomjon_Imtihon_m4_Web_exploded/WEB-INF/lib/spring-webmvc-5.3.15.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Isoqov_Islomjon_Imtihon_m4_Web_exploded/WEB-INF/view/Register.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/view/register.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Isoqov_Islomjon_Imtihon_m4_Web_exploded/WEB-INF/view/add-book.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Isoqov_Islomjon_Imtihon_m4_Web_exploded/WEB-INF/view/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Isoqov_Islomjon_Imtihon_m4_Web_exploded/WEB-INF/view/view-books.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Isoqov_Islomjon_Imtihon_m4_Web_exploded/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Isoqov_Islomjon_Imtihon_m4_Web_exploded/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/config/WebMvcConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/config/WebMvcConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uz/pdp/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/controller/AuthController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/uz/pdp/config/AppInit.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/uz/pdp/config/AppInit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/uz/pdp/config/WebMvcConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/uz/pdp/config/WebMvcConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/uz/pdp/controller/AuthController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/uz/pdp/controller/AuthController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/uz/pdp/controller/BookController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/uz/pdp/controller/BookController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/uz/pdp/model/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/uz/pdp/model/Book.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/uz/pdp/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/uz/pdp/model/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/uz/pdp/repository/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/uz/pdp/repository/UserRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/uz/pdp/services/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/uz/pdp/services/UserService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/view/Register.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/view/add-book.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/view/add-book.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/view/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/view/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" />
-    </list>
+    <list default="true" id="82a47fad-7302-4f54-950f-cead537da8f2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -224,7 +166,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1645794472297</updated>
-      <workItem from="1645794473784" duration="3761000" />
+      <workItem from="1645794473784" duration="4173000" />
     </task>
     <servers />
   </component>
