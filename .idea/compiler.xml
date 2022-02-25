@@ -7,7 +7,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Isoqov_Islomjon_Imtihon_m4" />
+        <module name="Online_kutubxona_Shoxrux_Ergashev_b6" />
       </profile>
     </annotationProcessing>
   </component>

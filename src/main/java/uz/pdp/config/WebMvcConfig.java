@@ -21,7 +21,7 @@ import java.sql.SQLException;
 @EnableWebMvc
 @ComponentScan(basePackages = "uz.pdp.*")
 public class WebMvcConfig implements WebMvcConfigurer {
-    private final String dbUrl = "jdbc:postgresql://localhost:5432/library_db";
+    private final String dbUrl = "jdbc:postgresql://localhost:5432/online_kutubxona";
     private final String dbUser = "postgres";
     private final String userPassword = "root123";
 

@@ -30,6 +30,10 @@ public class AuthController {
         }
         return "index";
     }
+    @GetMapping
+    public String loginUser(){
+        return "index";
+    }
 
     @GetMapping("register")
     public String registerUser() {
